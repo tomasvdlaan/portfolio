@@ -87,7 +87,10 @@ class ServiceTwo extends Component {
                   aria-labelledby="design-tab"
                 >
                   <div className="service_img text-center">
-                    <img src={require("../image/design.svg")} alt="" />
+                    <img
+                      src={require("../image/design.svg")}
+                      alt="Web design vector graphic"
+                    />
                     <p>
                       Having a good design is essential to the success of your
                       digital product. Creating a meaningful, smooth and
@@ -103,7 +106,10 @@ class ServiceTwo extends Component {
                   aria-labelledby="web-tab"
                 >
                   <div className="service_img text-center">
-                    <img src={require("../image/webdev.svg")} alt="" />
+                    <img
+                      src={require("../image/webdev.svg")}
+                      alt="Web development vector graphic"
+                    />
                     <p>
                       With the ever expanding capabilities of browser, web
                       development is as relevant as ever. Progressive Web
@@ -119,7 +125,10 @@ class ServiceTwo extends Component {
                   aria-labelledby="mobile-tab"
                 >
                   <div className="service_img text-center">
-                    <img src={require("../image/native.svg")} alt="" />
+                    <img
+                      src={require("../image/native.svg")}
+                      alt="Native development vector graphic"
+                    />
                     <p>
                       Creating an optimized experience for mobile phones is a
                       whole other game of itself. Notifications, camera and
@@ -135,7 +144,10 @@ class ServiceTwo extends Component {
                   aria-labelledby="seo-tab"
                 >
                   <div className="service_img text-center">
-                    <img src={require("../image/search.svg")} alt="" />
+                    <img
+                      src={require("../image/search.svg")}
+                      alt="SEO and SEA vector graphic"
+                    />
                     <p>
                       Getting found, as a company, can be very hard and often
                       competitive. With a shift from physical to online, ranking

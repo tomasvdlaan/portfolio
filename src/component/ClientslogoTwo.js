@@ -33,25 +33,46 @@ class ClientslogoTwo extends Component {
             <div className="col-lg-6">
               <div className="clients_intrigration">
                 <a href=".#" className="c_items">
-                  <img src={require("../image/angular.png")} alt="" />
+                  <img
+                    src={require("../image/angular.png")}
+                    alt="Angular Logo for development"
+                  />
                 </a>
                 <a href=".#" className="c_items">
-                  <img src={require("../image/typeorm.png")} alt="" />
+                  <img
+                    src={require("../image/typeorm.png")}
+                    alt="typeorm Logo for development"
+                  />
                 </a>
                 <a href=".#" className="c_items">
-                  <img src={require("../image/pwa.png")} alt="" />
+                  <img
+                    src={require("../image/pwa.png")}
+                    alt="Progressive Web App Logo for development"
+                  />
                 </a>
                 <a href=".#" className="c_items middle">
-                  <img src={require("../image/react.png")} alt="" />
+                  <img
+                    src={require("../image/react.png")}
+                    alt="React Logo for development"
+                  />
                 </a>
                 <a href=".#" className="c_items">
-                  <img src={require("../image/ios.png")} alt="" />
+                  <img
+                    src={require("../image/ios.png")}
+                    alt="IOS Logo for development"
+                  />
                 </a>
                 <a href=".#" className="c_items">
-                  <img src={require("../image/android.png")} alt="" />
+                  <img
+                    src={require("../image/android.png")}
+                    alt="Android Logo for development"
+                  />
                 </a>
                 <a href=".#" className="c_items">
-                  <img src={require("../image/nestjs.png")} alt="" />
+                  <img
+                    src={require("../image/nestjs.png")}
+                    alt="Nest.js Logo for development"
+                  />
                 </a>
               </div>
             </div>

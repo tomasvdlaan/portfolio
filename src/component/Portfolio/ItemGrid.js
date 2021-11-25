@@ -75,13 +75,14 @@ class ItemGrid extends Component {
         <div className="grid row">
           <div className="col-md-3 col-sm-6 col-xs-12 grid-item web">
             <div className="portfolio hover-style">
-              <img src={require("../../image/portfolio/agency.png")} alt="" />
+              <img
+                src={require("../../image/portfolio/agency.png")}
+                alt="Shenzhen Agency web design and development"
+              />
               <div className="item-img-overlay">
                 <div className="overlay-info text-center">
                   <span className="title h2">Shenzhen Agency</span>
-                  <p className="px-4">
-                    <a href="">Shenzhen Agency</a> is a PHP website, B2B.
-                  </p>
+                  <p className="px-4">Shenzhen Agency is a PHP website, B2B.</p>
                 </div>
               </div>
             </div>
@@ -90,7 +91,7 @@ class ItemGrid extends Component {
             <div className="portfolio hover-style">
               <img
                 src={require("../../image/portfolio/antalyagids.png")}
-                alt=""
+                alt="Antalyagids web design and development"
               />
               <div className="item-img-overlay">
                 <div className="overlay-info text-center">
@@ -104,7 +105,10 @@ class ItemGrid extends Component {
           </div>
           <div className="col-md-6 col-sm-6 col-xs-12 grid-item web">
             <div className="portfolio hover-style">
-              <img src={require("../../image/portfolio/cartsurf.png")} alt="" />
+              <img
+                src={require("../../image/portfolio/cartsurf.png")}
+                alt="Cartsurf web design and development"
+              />
               <div className="item-img-overlay">
                 <div className="overlay-info text-center">
                   <span className="title h1">CartSurf</span>
@@ -118,7 +122,10 @@ class ItemGrid extends Component {
           </div>
           <div className="col-md-6 col-sm-6 col-xs-12 grid-item native">
             <div className="portfolio hover-style">
-              <img src={require("../../image/portfolio/plantpal.png")} alt="" />
+              <img
+                src={require("../../image/portfolio/plantpal.png")}
+                alt="PlantPal Native App design and development"
+              />
               <div className="item-img-overlay">
                 <div className="overlay-info text-center">
                   <span className="title h1">PlantPal</span>
@@ -132,7 +139,10 @@ class ItemGrid extends Component {
           </div>
           <div className="col-md-3 col-sm-6 col-xs-12 grid-item web">
             <div className="portfolio hover-style">
-              <img src={require("../../image/portfolio/wirless.png")} alt="" />
+              <img
+                src={require("../../image/portfolio/wirless.png")}
+                alt="Wirless web design and development"
+              />
               <div className="item-img-overlay">
                 <div className="overlay-info text-center">
                   <span className="title h1">Wirless</span>
@@ -147,7 +157,7 @@ class ItemGrid extends Component {
             <div className="portfolio hover-style">
               <img
                 src={require("../../image/portfolio/newproject.png")}
-                alt=""
+                alt="Want to start a new project together?"
               />
               <div className="item-img-overlay">
                 <div className="overlay-info text-center">

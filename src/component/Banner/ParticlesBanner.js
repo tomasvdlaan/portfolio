@@ -18,7 +18,7 @@ class ParticlesBanner extends Component {
             <img
               className="faa-spin animated"
               src={require("../../image/circle-2.png")}
-              alt=""
+              alt="Shape Drawing for Background"
             />
           </div>
           <Particles />
