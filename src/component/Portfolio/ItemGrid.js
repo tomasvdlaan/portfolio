@@ -96,8 +96,7 @@ class ItemGrid extends Component {
                 <div className="overlay-info text-center">
                   <span className="title h2">AntalyaGids.nl</span>
                   <p className="px-4">
-                    <a href="">AntalyaGids.nl</a> is a Wordpress Website about
-                    Antalya, Turkey.
+                    AntalyaGids.nl is a Wordpress Website about Antalya, Turkey.
                   </p>
                 </div>
               </div>
@@ -110,8 +109,8 @@ class ItemGrid extends Component {
                 <div className="overlay-info text-center">
                   <span className="title h1">CartSurf</span>
                   <p className="px-4">
-                    <a href="">CartSurf</a> is a Angular Web Application
-                    managing repair stores and webshops.
+                    CartSurf is a Angular Web Application managing repair stores
+                    and webshops.
                   </p>
                 </div>
               </div>
@@ -124,8 +123,8 @@ class ItemGrid extends Component {
                 <div className="overlay-info text-center">
                   <span className="title h1">PlantPal</span>
                   <p className="px-4">
-                    <a href="">PlantPal</a> is a React Native Application for
-                    IOS and Android to track, and optimize plant growth.
+                    PlantPal is a React Native Application for IOS and Android
+                    to track, and optimize plant growth.
                   </p>
                 </div>
               </div>
@@ -138,8 +137,7 @@ class ItemGrid extends Component {
                 <div className="overlay-info text-center">
                   <span className="title h1">Wirless</span>
                   <p className="px-4">
-                    <a href="">Wirless</a> is my own company, focussed on board
-                    repair.
+                    Wirless is my own company, focussed on board repair.
                   </p>
                 </div>
               </div>

@@ -5,7 +5,6 @@ import SectionTitleTwo from "./Banner/SectionTitleTwo";
 
 class Contact extends Component {
   render() {
-    let jhonData = this.props.jhonData;
     return (
       <section className="contact-area" id="contact">
         <div className="container">

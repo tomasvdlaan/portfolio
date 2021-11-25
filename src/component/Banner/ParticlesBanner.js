@@ -43,7 +43,11 @@ class ParticlesBanner extends Component {
               />
               <ul className="list_style social_icon">
                 <li key={"Github"}>
-                  <a href={"https://github.com/tomasvdlaan"} target="_blank">
+                  <a
+                    href={"https://github.com/tomasvdlaan"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <BsGithub />
                   </a>
                 </li>
@@ -51,6 +55,7 @@ class ParticlesBanner extends Component {
                   <a
                     href={"https://www.linkedin.com/in/tomasvdlaan"}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <FaLinkedinIn />
                   </a>
@@ -59,12 +64,17 @@ class ParticlesBanner extends Component {
                   <a
                     href={"https://www.instagram.com/tomasvdlaan.nl"}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <BsInstagram />
                   </a>
                 </li>
                 <li key={"Instagram"}>
-                  <a href={"mailto:info@tomasvdlaan.nl"} target="_blank">
+                  <a
+                    href={"mailto:info@tomasvdlaan.nl"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <MdAlternateEmail />
                   </a>
                 </li>

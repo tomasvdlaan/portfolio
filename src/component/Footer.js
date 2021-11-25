@@ -12,7 +12,11 @@ class Footer extends Component {
             <Fade top cascade>
               <ul className="list_style social_icon">
                 <li>
-                  <a href={"https://github.com/tomasvdlaan"} target="_blank">
+                  <a
+                    href={"https://github.com/tomasvdlaan"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <BsGithub />
                   </a>
                 </li>
@@ -20,6 +24,7 @@ class Footer extends Component {
                   <a
                     href={"https://www.linkedin.com/in/tomasvdlaan"}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <FaLinkedinIn />
                   </a>
@@ -28,12 +33,17 @@ class Footer extends Component {
                   <a
                     href={"https://www.instagram.com/tomasvdlaan.nl"}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <BsInstagram />
                   </a>
                 </li>
                 <li>
-                  <a href={"mailto:info@tomasvdlaan.nl"} target="_blank">
+                  <a
+                    href={"mailto:info@tomasvdlaan.nl"}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <MdAlternateEmail />
                   </a>
                 </li>

@@ -3,7 +3,7 @@ import Sticky from "react-stickynode";
 import { Link } from "react-scroll";
 class Navbar extends Component {
   render() {
-    var { mClass, mContainer, mainlogo, stickylogo } = this.props;
+    var { mClass, mContainer } = this.props;
     return (
       <Sticky top={0} innerZ={9999} activeClass="navbar_fixed">
         <nav className={`navbar navbar-expand-lg navbar-light ${mClass}`}>
