@@ -26,7 +26,10 @@ class ParticlesBanner extends Component {
             <div className="banner_content">
               <Reveal effect="fadeInUp">
                 <h2 className="wow fadeInLeft animated">
-                  I'm Tomas van der Laan👋
+                  I'm Tomas van der Laan{" "}
+                  <span role="img" aria-label="hello">
+                    👋
+                  </span>
                 </h2>
               </Reveal>
               <Reveal effect="fadeInUp" duration={1500}>
